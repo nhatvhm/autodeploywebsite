@@ -1,0 +1,21 @@
+
+// Fonts
+//@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$icon-font-path: "/fonts/bootstrap/";
+$fa-font-path:   "/fonts/fontawesome";
+@import "bootstrap";
+@import "font-awesome";
+@import "dataTables.bootstrap";
+@import "bootstrap-datetimepicker-build";
+@import "AdminLTE";
+@import "skin-blue";
+@import "starter-kit-additional";
+@import "starter-kit-tables";
+@import "starter-kit-customize";
